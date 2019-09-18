@@ -1,0 +1,51 @@
+html{
+    font-family: Calibri;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.container > h1 {
+    border-bottom: 1px solid black;
+    line-height: 2.5;
+}
+
+.content {
+    text-align: left;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.content > p {
+    margin-bottom: 15px;
+}
+
+img{
+    border: 1px solid #f6f6f6;
+    margin-top: 10px;
+}
+
+.centered{
+    margin-top: 10px;
+    border-top: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.header-title {
+    color: rgb(46,116,181);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(48,116,181);
+    cursor: pointer;
+}
